@@ -15,3 +15,6 @@ The Table panel includes the average temperature by year and month. There are tw
 ## Link to the project
 
 https://zihanchen.shinyapps.io/ps6-shinyAPP/
+
+## Hours Used
+6 hours
