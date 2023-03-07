@@ -1,0 +1,13 @@
+name: ps6-shinyAPP
+title: ps6-shinyAPP
+username:
+account: zihanchen
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8499741
+bundleId: 6925429
+url: https://zihanchen.shinyapps.io/ps6-shinyAPP/
+when: 1678185688.06144
+lastSyncTime: 1678185688.06145
+asMultiple: FALSE
+asStatic: FALSE
